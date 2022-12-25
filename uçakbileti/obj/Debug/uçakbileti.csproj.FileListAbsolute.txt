@@ -1,0 +1,11 @@
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\bin\Debug\uçakbileti.exe.config
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\bin\Debug\uçakbileti.exe
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\bin\Debug\uçakbileti.pdb
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\obj\Debug\uçakbileti.csproj.AssemblyReference.cache
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\obj\Debug\uçakbileti.csproj.SuggestedBindingRedirects.cache
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\obj\Debug\uçakbileti.Form1.resources
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\obj\Debug\uçakbileti.Properties.Resources.resources
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\obj\Debug\uçakbileti.csproj.GenerateResource.cache
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\obj\Debug\uçakbileti.csproj.CoreCompileInputs.cache
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\obj\Debug\uçakbileti.exe
+C:\Users\coman\Desktop\dersler\uçakbileti\uçakbileti\obj\Debug\uçakbileti.pdb
